@@ -3,4 +3,11 @@
 |----|---|-----|------|
 |Muhammad Fiqri Setyoadi|312210062|TI.22.A.2|Pemograman Mobile|
 
-Isiannya akan menyusul
+Untuk melihat file codingannya klik ini [Codingan](Fibonacci)
+
+Sedangkan kalau yang belum ada warnanya dan tidak ada limitnya klik ini [Codingan](<Android Project>)
+
+BERIKUT INI ADALAH VIDEO SINGKAT PENJELASAN DARI SAYA
+[video](Video/Penjelasan.mp4)
+
+## Sekian dari Saya Salam Mashasiswa 🙏🎓😉
