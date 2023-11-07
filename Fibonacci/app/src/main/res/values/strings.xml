@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">ToastFibonacci</string>
+    <string name="hitungan">0</string>
+    <string name="Angka">Message</string>
+    <string name="button_toast">Toast</string>
+    <string name="button_count">Count</string>
+    <string name="button_kembali">Back</string>
+
+
+    <string name="button_label_fibonacci">Fibonacci</string>
+    <string name="button_label_count">Count</string>
+    <string name="count_initial_value">0</string>
+    <string name="fibonacci_message">Latihan Bilangan Fibonacci !</string>
+    <string name="button_label_reset">Reset</string>
+    <string name="enter_fibonacci_limit">Masukkan Limit Angka</string>
+    <string name="notif_1">Deret Angka Fibonacci Telah Mencapai Batas</string>
+
+</resources>

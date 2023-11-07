@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="biru">#0000FF</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="navy">#000080</color>
+    <color name="Berry">#C54B8C</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="hijau">#FF008000</color>
+    <color name="kuning">#FFFF00</color>
+    <color name="biru_city">#4f87ff</color>
+    <color name="orange">#FFFF6600</color>
+    <color name="dark_teal">#FF003366</color>
+    <color name="aqua">#FF33CCCC</color>
+    <color name="gray">#FF333333</color>
+
+</resources>
