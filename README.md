@@ -10,4 +10,6 @@ Sedangkan kalau yang belum ada warnanya dan tidak ada limitnya klik ini [Codinga
 BERIKUT INI ADALAH VIDEO SINGKAT PENJELASAN DARI SAYA
 [video](Video/Penjelasan.mp4)
 
+Jika link yang diatas tidak bisa diakses maka klik link berikut [video](https://drive.google.com/file/d/1zcwIYWTdpsIm2lT5P0l-q9SdNn53MfpL/view?usp=sharing)
+
 ## Sekian dari Saya Salam Mashasiswa 🙏🎓😉
